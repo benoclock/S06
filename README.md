@@ -3,7 +3,7 @@
 ### Catégories
 
 | Original | Image |
-|--|--|--|
+|--|--|
 | https://benoclock.github.io/S06-images/categ1.jpeg | <img src="https://benoclock.github.io/S06-images/categ1.jpeg" alt="" height="60"> |
 | https://benoclock.github.io/S06-images/categ2.jpeg | <img src="https://benoclock.github.io/S06-images/categ2.jpeg" alt="" height="60"> |
 | https://benoclock.github.io/S06-images/categ3.jpeg | <img src="https://benoclock.github.io/S06-images/categ3.jpeg" alt="" height="60"> |
